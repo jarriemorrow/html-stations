@@ -1,0 +1,45 @@
+body {
+  background-color: #C4C4C4;
+}
+
+header {
+  background-color: #ffffff;
+  height: 50px;
+  width: auto;
+}
+
+footer {
+  background-color: #ffffff;
+  height: 50px;
+  width: auto;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #eb5454;
+  padding: 10px;
+  width: 300px;
+  margin: auto;
+}
+
+.card__title {
+  color: #282828;
+  font-weight: bold;
+  size: 14px;
+}
+
+.card__description {
+  color: #282828;
+  size: 12px;
+}
+
+.card__img-top {
+  width: 288px;
+  height: 182px;
+  margin-bottom: 10px;
+}
